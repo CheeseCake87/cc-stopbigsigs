@@ -1,2 +1,6 @@
-# cc-stopbigsigs
-Stop using big email signatures.
+
+![logo-wt.svg](logo-wt.svg)
+
+# Stop Using Big Email Signatures!
+
+[stopbigsigs.cc](https://stopbigsigs.cc)
