@@ -1,5 +1,5 @@
 
-![logo-wt.svg](logo-wt.svg)
+![logo-github.png](logo-github.png)
 
 # Stop Using Big Email Signatures!
 
