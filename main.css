@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    color: whitesmoke;
+    font-family: 'Arial', sans-serif;
+}
+
+.example {
+    width: 100%;
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: whitesmoke 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.side-by-side {
+    display: flex;
+    gap: 10px;
+    justify-content: start;
+}
+
+.small {
+    font-size: 1.2rem;
+}
+
+.spacer {
+    display: block;
+    margin-top: 60px;
+    width: 100%;
+    height: 1px;
+}
+
+a {
+    color: #f0f0f0;
+}
+
+section {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.2rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
